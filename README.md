@@ -8,4 +8,3 @@ Tutorial on python libraries used to obtain meaninful insights from data.
 2. Pandas
 3. Matplotlib
 
-**After you learn about the data scientists toolkit we will get our hands dirty with some cool projects.**
