@@ -1,6 +1,6 @@
 # Dont't Be a Regular Guy, Be a Cool Data Scientist
 
-Follow along with me as I will make a cool data scientist who can gather meaninful insights from data with the power of Python.
+Tutorial on python libraries used to obtain meaninful insights from data.
 
 ### The following libraries will be discussed:
 
